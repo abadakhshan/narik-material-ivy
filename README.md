@@ -1,2 +1,2 @@
 # narik-material-ivy
-test Narik with ivy
+Sample repository for Narik with ivy
